@@ -21,3 +21,9 @@ The steps are described as below:
 6. Writing a script to test the new image versus the model.
 
 7. Make a prediction by running the python script to use the trained model over the test picture.
+
+
+** Testing with below image gives a score of 46% only:
+
+![test](https://user-images.githubusercontent.com/26288770/31362162-14c57856-ad25-11e7-89e3-e8a629651094.jpg)
+<img width="186" alt="screen shot 2017-10-09 at 5 31 07 pm" src="https://user-images.githubusercontent.com/26288770/31362172-22484ae4-ad25-11e7-91ba-f73f512fc1be.png">
