@@ -16,7 +16,9 @@ The steps are described as below:
 
 4. Downloading the latest inception classifier by --  git pull (so that transfer learning can be applied).
 
-5. Retraining the model with images.
+5. Re-training the model with images:
+
+<img width="564" alt="screen shot 2017-10-09 at 7 13 55 pm" src="https://user-images.githubusercontent.com/26288770/31362364-1bf80688-ad26-11e7-9f8f-0a5e8cb26a61.png">
 
 6. Writing a script to test the new image versus the model.
 
