@@ -29,3 +29,8 @@ The steps are described as below:
 <img width="186" alt="screen shot 2017-10-09 at 5 31 07 pm" src="https://user-images.githubusercontent.com/26288770/31362172-22484ae4-ad25-11e7-91ba-f73f512fc1be.png">
 
 ** Understandably there is a whole arm & text as-well in the picture.
+
+** Using a simpler image for testing where only the facial aspect is the most prominent feature gives a score of 95%.
+
+![test2](https://user-images.githubusercontent.com/26288770/31362259-8463b1d2-ad25-11e7-8449-18391c15254b.jpg)
+<img width="201" alt="screen shot 2017-10-09 at 5 30 52 pm" src="https://user-images.githubusercontent.com/26288770/31362278-90aa87f4-ad25-11e7-95a2-de7daf9a7c46.png">
